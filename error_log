@@ -1,0 +1,5 @@
+[26-Aug-2022 21:51:28 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/hvwextfm/chat-whattsap.saludnow1.xyz/redondear.php on line 14
+[26-Aug-2022 21:51:28 America/New_York] PHP Warning:  imagecreatefromstring(): Empty string or invalid image in /home/hvwextfm/chat-whattsap.saludnow1.xyz/redondear.php on line 14
+[26-Aug-2022 21:51:28 America/New_York] PHP Warning:  imagesx() expects parameter 1 to be resource, bool given in /home/hvwextfm/chat-whattsap.saludnow1.xyz/redondear.php on line 15
+[26-Aug-2022 21:51:28 America/New_York] PHP Warning:  imagesy() expects parameter 1 to be resource, bool given in /home/hvwextfm/chat-whattsap.saludnow1.xyz/redondear.php on line 16
+[26-Aug-2022 21:51:28 America/New_York] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, bool given in /home/hvwextfm/chat-whattsap.saludnow1.xyz/redondear.php on line 21
